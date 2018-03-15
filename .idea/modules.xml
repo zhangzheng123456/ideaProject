@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ideaProject.iml" filepath="$PROJECT_DIR$/ideaProject.iml" />
+      <module fileurl="file://E:/companyProject/ishop_web/iShop/ishop.iml" filepath="E:/companyProject/ishop_web/iShop/ishop.iml" />
+      <module fileurl="file://E:/companyProject/wechat/http_app/wechat.iml" filepath="E:/companyProject/wechat/http_app/wechat.iml" />
+    </modules>
+  </component>
+</project>
